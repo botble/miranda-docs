@@ -52,7 +52,7 @@
 
     - Run `php artisan cms:user:create` to create admin user.
     
-    - Run `php artisan cms:theme:activate september`
+    - Run `php artisan cms:theme:activate miranda`
 
 - If you're pulled source code from GIT server:
     - Run `php artisan vendor:publish --tag=cms-public --force`

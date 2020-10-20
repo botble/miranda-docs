@@ -1,8 +1,17 @@
 # Release Notes
 
+- [Miranda 1.3](#version_1_3)
 - [Miranda 1.2](#version_1_2)
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
+
+<a name="version_1_3"></a>
+## Miranda 1.3
+### Oct 20, 2020
+- Add taxes.
+- Improve queries.
+- Update UI.
+- Fix minor bugs.
 
 <a name="version_1_2"></a>
 ## Miranda 1.2

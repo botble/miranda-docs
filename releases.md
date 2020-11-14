@@ -1,9 +1,24 @@
 # Release Notes
 
+- [Miranda 1.4](#version_1_4)
 - [Miranda 1.3](#version_1_3)
 - [Miranda 1.2](#version_1_2)
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
+
+<a name="version_1_4"></a>
+## Miranda 1.4
+### Nov 14, 2020
+- Update menu: optimize queries, cache menu URL for better performance.
+- Optimize queries on menu & widgets.
+- Update Cookie consent: Add option to change background color, text color.
+- Update error pages, make it more beautiful.
+- Update UI contact form, galleries.
+- Improve permalink & custom CSS page.
+- Improve Analytics plugin, make it compatible with PHP 7.4.
+- Fix theme translations: new keys in English doesn't show in other languages.
+- Fix IP in activity logs, allow IP v6.
+- Refactor code.
 
 <a name="version_1_3"></a>
 ## Miranda 1.3

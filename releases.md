@@ -1,10 +1,21 @@
 # Release Notes
 
+- [Miranda 1.5](#version_1_5)
 - [Miranda 1.4](#version_1_4)
 - [Miranda 1.3](#version_1_3)
 - [Miranda 1.2](#version_1_2)
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
+
+<a name="version_1_5"></a>
+## Miranda 1.5
+### Dec 10, 2020
+- Add offers page.
+- Improve responsive.
+- Update translations, added missing keys.
+- Improve DO Spaces integration.
+- Fix roles & permissions.
+- Optimize page speed and performance.
 
 <a name="version_1_4"></a>
 ## Miranda 1.4

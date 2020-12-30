@@ -10,14 +10,14 @@
 
 <a name="version_1_6"></a>
 ## Miranda 1.6
-### Dec 10, 2020
+### Dec 29, 2020
 - Fix create/update foods.
 - Fix mobile menu.
 - Improve performance.
 
 <a name="version_1_5"></a>
 ## Miranda 1.5
-### Dec 10, 2020
+### Dec 13, 2020
 - Add offers page.
 - Improve responsive.
 - Update translations, added missing keys.

@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Miranda 1.7](#version_1_7)
 - [Miranda 1.6](#version_1_6)
 - [Miranda 1.5](#version_1_5)
 - [Miranda 1.4](#version_1_4)
@@ -7,6 +8,16 @@
 - [Miranda 1.2](#version_1_2)
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
+
+## Miranda 1.7
+### Feb 04, 2021
+- Upgraded to Laravel 8.
+- Update JS/CSS assets.
+- Add shortcode `[rooms][/rooms]`.
+- Improve admin language settings.
+- Improve permalinks.
+- Fix bugs on PHP 8.
+- Refactor code & optimize UI.
 
 <a name="version_1_6"></a>
 ## Miranda 1.6

@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Miranda 1.8](#version_1_8)
 - [Miranda 1.7](#version_1_7)
 - [Miranda 1.6](#version_1_6)
 - [Miranda 1.5](#version_1_5)
@@ -8,6 +9,18 @@
 - [Miranda 1.2](#version_1_2)
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
+
+## Miranda 1.8
+### Mar 02, 2021
+- Added SSLCommerz payment gateway.
+- New option to add custom JS in Admin -> Appearance -> Custom JS.
+- Added setting in Admin -> Settings -> General to change login screen backgrounds.
+- Improve process booking speed.
+- Improve dashboard widgets.
+- Improve page SEO meta.
+- Improve breadcrumbs.
+- Fix permission issue on Contact plugin.
+- Fix some bugs on PHP 8.
 
 ## Miranda 1.7
 ### Feb 04, 2021

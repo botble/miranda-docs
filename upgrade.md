@@ -23,11 +23,13 @@
   - Delete folder `public/themes` and run command `php artisan cms:theme:assets:publish`
   - Run command `php artisan vendor:publish --tag=cms-lang --force` to update translations.
   - Run `php artisan optimize:clear` to clear cache.
+  - Go to Admin -> Plugins and activate the plugin SslCommerz Payment Gateway to use it.
 
 - For non-developers:
   - Override folder `public/themes`, `public/vendor`, `bootstrap`, `vendor` from the latest version.
   - Delete all files in `storage/framework/views` and `storage/framework/cache`.
   - Go to Admin -> Translations -> Admin translations then click on `Import group` to update translations.
+  - Go to Admin -> Plugins and activate the plugin SslCommerz Payment Gateway to use it.
   
 <a name="upgrade_1_7"></a>
 ## Upgrade to 1.7

@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Miranda 1.9](#version_1_9)
 - [Miranda 1.8](#version_1_8)
 - [Miranda 1.7](#version_1_7)
 - [Miranda 1.6](#version_1_6)
@@ -9,6 +10,13 @@
 - [Miranda 1.2](#version_1_2)
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
+
+## Miranda 1.9
+### Mar 15, 2021
+- Update email templates.
+- Fix bug Serialization of 'GdImage' is not allowed.
+- Fix bugs on PHP 8.
+- Refactor code & improve performance.
 
 ## Miranda 1.8
 ### Mar 02, 2021

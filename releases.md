@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Miranda 1.10](#version_1_10)
 - [Miranda 1.9](#version_1_9)
 - [Miranda 1.8](#version_1_8)
 - [Miranda 1.7](#version_1_7)
@@ -11,6 +12,17 @@
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
 
+<a name="version_1_10"></a>
+## Miranda 1.10
+### Apr 11, 2021
+- Allow to add more sliders on homepage.
+- Add option to turn off automatic URL translation into Latin.
+- Add option to force URL & schema.
+- Improve email templates.
+- Fix bug Serialization of 'GdImage' is not allowed on PHP 8.
+- Refactor code & optimize performance.
+
+<a name="version_1_9"></a>
 ## Miranda 1.9
 ### Mar 15, 2021
 - Update email templates.
@@ -18,6 +30,7 @@
 - Fix bugs on PHP 8.
 - Refactor code & improve performance.
 
+<a name="version_1_8"></a>
 ## Miranda 1.8
 ### Mar 02, 2021
 - Added SSLCommerz payment gateway.
@@ -30,6 +43,7 @@
 - Fix permission issue on Contact plugin.
 - Fix some bugs on PHP 8.
 
+<a name="version_1_7"></a>
 ## Miranda 1.7
 ### Feb 04, 2021
 - Upgraded to Laravel 8.

@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Miranda 1.12](#version_1_12)
 - [Miranda 1.11](#version_1_11)
 - [Miranda 1.10](#version_1_10)
 - [Miranda 1.9](#version_1_9)
@@ -12,6 +13,18 @@
 - [Miranda 1.2](#version_1_2)
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
+
+<a name="version_1_12"></a>
+## Miranda 1.12
+### Jun 13, 2021
+- Added RTL support for the admin panel.
+- Fix issue when using Stripe and Razorpay together.
+- Fix some errors on PHP 8.
+- Fix blog API.
+- Improve media, fix some errors with SVG.
+- Improve UI.
+- Optimize queries.
+- Refactor code & improve performance.
 
 <a name="version_1_11"></a>
 ## Miranda 1.11

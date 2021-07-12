@@ -17,7 +17,7 @@
 
 <a name="version_1_13"></a>
 ## Miranda 1.13
-### Jul 11, 2021
+### Jul 12, 2021
 - Check room available when booking a room.
 - Add Wasabi cloud storage support.
 - Allow to config the default placeholder image.

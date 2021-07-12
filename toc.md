@@ -9,5 +9,8 @@
     - [License](license.md)
     
 - Available plugins
-    - [Analytics](plugin-analytics.md)
     - [Backup](plugin-backup.md)
+
+- Usage
+  - [Setup email](usage-email.md)
+  - [Analytics](usage-analytics.md)

@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Miranda 1.13](#version_1_13)
 - [Miranda 1.12](#version_1_12)
 - [Miranda 1.11](#version_1_11)
 - [Miranda 1.10](#version_1_10)
@@ -13,6 +14,18 @@
 - [Miranda 1.2](#version_1_2)
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
+
+<a name="version_1_13"></a>
+## Miranda 1.13
+### Jul 11, 2021
+- Check room available when booking a room.
+- Add Wasabi cloud storage support.
+- Allow to config the default placeholder image.
+- Improve media, translations & backup.
+- Improve UI.
+- Optimize queries.
+- Refactor code & improve performance.
+- Fix some bugs on PHP 8.
 
 <a name="version_1_12"></a>
 ## Miranda 1.12

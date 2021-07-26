@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Miranda 1.14](#version_1_14)
 - [Miranda 1.13](#version_1_13)
 - [Miranda 1.12](#version_1_12)
 - [Miranda 1.11](#version_1_11)
@@ -14,6 +15,14 @@
 - [Miranda 1.2](#version_1_2)
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
+
+<a name="version_1_14"></a>
+## Miranda 1.14
+### Jul 27, 2021
+- Update CKEditor and TinyMCE to the latest version (version 5).
+- Update media: Add a button to download media files from URL.
+- Able to add multiple admin emails in Admin -> Settings -> General.
+- Big change on blog categories. Hierarchical tree structured category https://prnt.sc/1g4dr0n.
 
 <a name="version_1_13"></a>
 ## Miranda 1.13

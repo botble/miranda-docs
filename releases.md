@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Miranda 1.15](#version_1_15)
 - [Miranda 1.14](#version_1_14)
 - [Miranda 1.13](#version_1_13)
 - [Miranda 1.12](#version_1_12)
@@ -15,6 +16,19 @@
 - [Miranda 1.2](#version_1_2)
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
+
+<a name="version_1_15"></a>
+## Miranda 1.15
+### Aug 23, 2021
+- Fix currency settings.
+- Fix Contact plugin with the new editor.
+- Fix theme UI.
+- Update email templates.
+- Improve shortcode. Make it easier to modify added shortcodes.
+- Improve editor & clean XSS.
+- Update to the latest Laravel version 8.55.0
+- Improve core.
+- Optimize queries performance.
 
 <a name="version_1_14"></a>
 ## Miranda 1.14

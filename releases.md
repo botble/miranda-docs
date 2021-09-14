@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Miranda 1.16](#version_1_16)
 - [Miranda 1.15](#version_1_15)
 - [Miranda 1.14](#version_1_14)
 - [Miranda 1.13](#version_1_13)
@@ -17,6 +18,24 @@
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
 
+<a name="version_1_16"></a>
+## Miranda 1.16
+### Sep 14, 2021
+- Add multi-language support.
+- Add multi-currency support.
+- Fix bug in related rooms section.
+- Fix theme migration & issue when activating plugin Language.
+- Fix admin email.
+- Fix cache issue in media.
+- Improve theme custom CSS/JS.
+- Improve allowed iframe types.
+- Handle TokenMismatchException.
+- Prevent error when missing watermark image.
+- Update to the latest Laravel version 8.60.0
+- Improve UI.
+- Improve core.
+- Optimize queries performance.
+- 
 <a name="version_1_15"></a>
 ## Miranda 1.15
 ### Aug 23, 2021

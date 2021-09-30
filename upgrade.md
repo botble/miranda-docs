@@ -33,7 +33,7 @@
 - For non-developers:
   - Override folder `app`, `bootstrap`, `database`, `config`, `platform`, `vendor`, `public/themes`, `public/vendor` and `public/index.php` from the latest version.
   - Delete all files in `storage/framework/views` and `storage/framework/cache`.
-  - Go to Admin -> Translations -> Admin translations then click on `Import group` to update translations.
+  - Go to Admin -> Translations -> Other translations then click on `Import group` to update translations.
   - Go to Admin -> Plugins: deactivate plugin `Hotel` then activate it again.
 
 >  {warning} Go to Admin -> Plugins and activate plugin Language & Language Advanced if you need multi-language support.
@@ -54,7 +54,7 @@
 - For non-developers:
   - Override folder `app`, `bootstrap`, `database`, `config`, `platform`, `vendor`, `public/themes`, `public/vendor` and `public/index.php` from the latest version.
   - Delete all files in `storage/framework/views` and `storage/framework/cache`.
-  - Go to Admin -> Translations -> Admin translations then click on `Import group` to update translations.
+  - Go to Admin -> Translations -> Other translations then click on `Import group` to update translations.
   - 
 <a name="upgrade_1_14"></a>
 ## Upgrade to 1.14

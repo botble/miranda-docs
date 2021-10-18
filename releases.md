@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Miranda 1.17](#version_1_17)
 - [Miranda 1.16](#version_1_16)
 - [Miranda 1.15](#version_1_15)
 - [Miranda 1.14](#version_1_14)
@@ -18,6 +19,25 @@
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
 
+<a name="version_1_17"></a>
+## Miranda 1.17
+### Sep 14, 2021
+- Upgrade admin theme to Bootstrap 5.
+- Add system updater. 1-click update to the latest version.
+- Add BunnyCDN cloud storage.
+- Fix missing pagination in room listing page.
+- Fix email template.
+- Fix PayPal checkout.
+- Fix bug admin email, login backgrounds.
+- Allow using icon image instead of icon font
+- Improve multi-language.
+- Update to the latest Laravel version 8.64.0
+- Improve RTL mode.
+- Improve UI & Editors.
+- Improve cookie consent (Added minimal style).
+- Improve core.
+- Optimize queries performance.
+
 <a name="version_1_16"></a>
 ## Miranda 1.16
 ### Sep 14, 2021
@@ -35,7 +55,7 @@
 - Improve UI.
 - Improve core.
 - Optimize queries performance.
-- 
+
 <a name="version_1_15"></a>
 ## Miranda 1.15
 ### Aug 23, 2021

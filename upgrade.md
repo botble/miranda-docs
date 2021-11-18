@@ -1,5 +1,7 @@
 # Upgrade Guide
 
+- [Upgrade to Miranda 1.18](#version_1_18)
+- [Upgrade to Miranda 1.17](#version_1_17)
 - [Upgrade to Miranda 1.16](#version_1_16)
 - [Upgrade to Miranda 1.15](#version_1_15)
 - [Upgrade to Miranda 1.14](#version_1_14)
@@ -16,6 +18,16 @@
 - [Upgrade to Miranda 1.3](#version_1_3)
 - [Upgrade to Miranda 1.2](#version_1_2)
 - [Upgrade to Miranda 1.1](#version_1_1)
+
+<a name="upgrade_1_18"></a>
+## Upgrade to 1.18
+- Option 1 (Auto update): Go to Admin -> System Administration -> System Updater and click "Download & install update".
+
+- Option 2 (Manual update):
+  - Override folder `app`, `database`, `config`, `platform`, `public/themes`, `public/vendor`, `bootstrap`, `vendor`, `composer.json`, `composer.lock` and `public/index.php` from the latest version.
+  - Go to Admin -> Platform Administration -> Cache management then clear all caches.
+  - Go to Admin -> Plugins then deactivate plugin Hotel then re-activate it.
+  - Go to Admin -> Translations -> Other translations then click on `Import group` to update translations.
 
 <a name="upgrade_1_17"></a>
 ## Upgrade to 1.17

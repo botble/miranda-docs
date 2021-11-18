@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Miranda 1.18](#version_1_18)
 - [Miranda 1.17](#version_1_17)
 - [Miranda 1.16](#version_1_16)
 - [Miranda 1.15](#version_1_15)
@@ -19,9 +20,30 @@
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
 
+<a name="version_1_18"></a>
+## Miranda 1.18
+### Nov 18, 2021
+- Fix bullets list style in the editor.
+- Fix admin bar setting.
+- Fix product categories shortcode.
+- Fix Stripe payment gateway in non-decimal currencies.
+- Fix UI issue with select2 fields.
+- Fix some small issues when upgrading to Bootstrap 5.
+- Improve social login
+- Improve updater, using PclZip if Zip module is not enabled
+- Improve multi-language.
+- Improve plugin Language & Language Advanced.
+- Improve shortcode.
+- Improve Razorpay.
+- Improve payment.
+- Improve core & UI.
+- Improve RTL mode.
+- Update to the latest Laravel version 8.72.0.
+- Optimize queries performance.
+
 <a name="version_1_17"></a>
 ## Miranda 1.17
-### Sep 14, 2021
+### Oct 18, 2021
 - Upgrade admin theme to Bootstrap 5.
 - Add system updater. 1-click update to the latest version.
 - Add BunnyCDN cloud storage.

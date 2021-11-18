@@ -29,8 +29,8 @@
 - Fix Stripe payment gateway in non-decimal currencies.
 - Fix UI issue with select2 fields.
 - Fix some small issues when upgrading to Bootstrap 5.
-- Improve social login
-- Improve updater, using PclZip if Zip module is not enabled
+- Improve social login.
+- Improve updater, using PclZip if Zip module is not enabled.
 - Improve multi-language.
 - Improve plugin Language & Language Advanced.
 - Improve shortcode.

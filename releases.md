@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Miranda 1.19](#version_1_19)
 - [Miranda 1.18](#version_1_18)
 - [Miranda 1.17](#version_1_17)
 - [Miranda 1.16](#version_1_16)
@@ -19,6 +20,17 @@
 - [Miranda 1.2](#version_1_2)
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
+
+<a name="version_1_19"></a>
+## Miranda 1.19
+### Dec 22, 2021
+- Fix saving meta box data.
+- Improve editor & media.
+- Improve multi-language.
+- Improve theme translations.
+- Improve RTL style.
+- Update AWS S3 settings: add AWS Endpoint.
+- Refactor code.
 
 <a name="version_1_18"></a>
 ## Miranda 1.18

@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Miranda 1.21](#version_1_21)
 - [Miranda 1.20](#version_1_20)
 - [Miranda 1.19](#version_1_19)
 - [Miranda 1.18](#version_1_18)
@@ -21,6 +22,17 @@
 - [Miranda 1.2](#version_1_2)
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
+
+<a name="version_1_21"></a>
+## Miranda 1.21
+### Mar 22, 2022
+- Fix language advanced plugin.
+- Fix plugin activation.
+- Fix menu contains &amp;
+- Improve homepage shortcodes.
+- Improve editor.
+- Refactor code & improve queries.
+- Update Laravel framework to 8.83.5.
 
 <a name="version_1_20"></a>
 ## Miranda 1.20

@@ -1,5 +1,7 @@
 # Release Notes
 
+- [Miranda 1.23](#version_1_23)
+- [Miranda 1.22](#version_1_22)
 - [Miranda 1.21](#version_1_21)
 - [Miranda 1.20](#version_1_20)
 - [Miranda 1.19](#version_1_19)
@@ -22,6 +24,52 @@
 - [Miranda 1.2](#version_1_2)
 - [Miranda 1.1](#version_1_1)
 - [Miranda 1.0](#version_1_0)
+
+<a name="version_1_23"></a>
+## Miranda 1.23
+### Jul 13, 2022
+- Add Stripe Checkout option. Enable it in Admin -> Payments -> Payment methods.
+- Add option to download available translation files from GitHub.
+- Move folder /resources/lang to /lang.
+- Fix media URL.
+- Fix currency detection.
+- Add option to change payment status.
+- Add permission to manage license.
+- Fix room price.
+- Fix theme translations.
+- Improve plugin Backup.
+- Improve payment (separate plugin Payment to Payment + Stripe + PayPal).
+- Improve menu.
+- Improve cache system (fix cache won't be cleared after translating data).
+- Improve performance.
+- Update libraries / third-party package to the latest version.
+- Improve UI.
+- Improve performance.
+
+<a name="version_1_22"></a>
+## Miranda 1.22
+### May 24, 2022
+- Add custom HTML shortcode.
+- Add text direction toolbar to editor.
+- Add option to add custom HTML to header, body or footer of page.
+- Add option to regenerate media thumbnails from admin panel.
+- Add memory limit & max execution time info to system information page.
+- Add option to add watermark for images in specific folders.
+- Allow to redirect all 404 requests to homepage.
+- Add DB index to some tables.
+- Handle error when activating license.
+- Fix multi-language for plugin Gallery.
+- Fix image rotate issue when cropping thumbnails.
+- Fix media download on PHP 8.
+- Fix Admin RTL mode.
+- Improve contact form: add math captcha, blacklist words & domains to prevent spam mails.
+- Improve multi-language.
+- Improve dashboard widgets style & pagination.
+- Improve license system.
+- Improve admin bar.
+- Refactor code.
+- Update libraries.
+- Optimize queries.
 
 <a name="version_1_21"></a>
 ## Miranda 1.21

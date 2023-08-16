@@ -18,20 +18,19 @@ export default [
     ],
   },
   {
-    text: 'Available plugins',
-    items: [
-      { text: 'Backup', link: '/miranda/plugin-backup' },
-    ],
-  },
-  {
     text: 'Usage',
     items: [
-      { text: 'Setup email', link: '/miranda/usage-email' },
+      { text: 'Rename theme', link: '/miranda/theme-rename' },
+      { text: 'Custom CSS/JS', link: '/miranda/usage-custom-css-js' },
+      { text: 'Translation', link: '/miranda/usage-translation' },
+      { text: 'Multi-language', link: '/miranda/usage-multi-language' },
+      { text: 'Location', link: '/miranda/usage-location' },
+      { text: 'Google Analytics', link: '/miranda/usage-analytics' },
       { text: 'Media - Setup Amazon S3', link: '/miranda/usage-media-s3' },
       { text: 'Media - Setup BunnyCDN', link: '/miranda/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/miranda/usage-media-wasabi' },
-      { text: 'Analytics', link: '/miranda/usage-analytics' },
-      { text: 'Rename theme', link: '/miranda/theme-rename' },
+      { text: 'Setup email', link: '/miranda/usage-email' },
+      { text: 'Backup', link: '/miranda/plugin-backup' },
     ],
   },
 ] satisfies DefaultTheme.SidebarItem[];

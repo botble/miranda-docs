@@ -20,7 +20,6 @@ export default [
   {
     text: 'Usage',
     items: [
-      { text: 'Rename theme', link: '/miranda/theme-rename' },
       { text: 'Custom CSS/JS', link: '/miranda/usage-custom-css-js' },
       { text: 'Translation', link: '/miranda/usage-translation' },
       { text: 'Multi-language', link: '/miranda/usage-multi-language' },
@@ -31,4 +30,10 @@ export default [
       { text: 'Setup email', link: '/miranda/usage-email' },
     ],
   },
+  {
+    text: 'Development',
+    items: [
+      { text: 'Rename theme', link: '/miranda/theme-rename' },
+    ]
+  }
 ] satisfies DefaultTheme.SidebarItem[];

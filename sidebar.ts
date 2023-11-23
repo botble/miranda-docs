@@ -24,7 +24,6 @@ export default [
       { text: 'Custom CSS/JS', link: '/miranda/usage-custom-css-js' },
       { text: 'Translation', link: '/miranda/usage-translation' },
       { text: 'Multi-language', link: '/miranda/usage-multi-language' },
-      { text: 'Location', link: '/miranda/usage-location' },
       { text: 'Google Analytics', link: '/miranda/usage-analytics' },
       { text: 'Media - Setup Amazon S3', link: '/miranda/usage-media-s3' },
       { text: 'Media - Setup BunnyCDN', link: '/miranda/usage-media-bunnycdn' },

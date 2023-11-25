@@ -28,6 +28,7 @@ export default [
       { text: 'Media - Setup BunnyCDN', link: '/miranda/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/miranda/usage-media-wasabi' },
       { text: 'Setup email', link: '/miranda/usage-email' },
+      { text: 'Setup cronjob', link: '/miranda/cronjob' },
     ],
   },
   {

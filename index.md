@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Miranda is a Hotel and Resort Booking system using Laravel 9.x. It's a product built on Botble CMS.
+Miranda is a Hotel and Resort Booking system using Laravel 10.x. It's a product built on Botble CMS.
 
 Created: `2020/06/28`
 

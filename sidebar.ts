@@ -29,6 +29,7 @@ export default [
       { text: 'Media - Setup Wasabi', link: '/miranda/usage-media-wasabi' },
       { text: 'Setup email', link: '/miranda/usage-email' },
       { text: 'Setup cronjob', link: '/miranda/cronjob' },
+      { text: 'Newsletter', link: '/miranda/usage-newsletter' },
     ],
   },
   {

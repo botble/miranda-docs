@@ -20,9 +20,9 @@ Homepage: [http://miranda.botble.com](http://miranda.botble.com)
 
 Admin Area: [http://miranda.botble.com/admin](http://miranda.botble.com/admin)
 
-Username: `botble`
+Username: `admin`
 
-Password: `159357`
+Password: `12345678`
 
 ## Botble Team
 
